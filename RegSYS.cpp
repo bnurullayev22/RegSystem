@@ -1394,8 +1394,8 @@ private:
 
     void showCompanyFounders() {
         cout << "\n=== Founders of the company ===\n";
-        cout << "1. Nurullayev Behzod - Technical Director\n";
-        cout << "2. Hamidov Aziz - Marketing Manager\n";
+        cout << "1. Technical Director\n";
+        cout << "2. Marketing Manager\n";
         cout << "Press Enter to return...";
         cin.get();
         showCompanyInfo();
